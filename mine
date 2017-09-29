@@ -1,0 +1,65 @@
+body {
+	background-color: #ADA3A1;
+	background-image: none;
+}
+
+.profileModule {
+	border: 2px double #102530;
+	background-image: url(https://i.pinimg.com/736x/9b/7a/48/9b7a4870dc58773ae79f4a81cdef41b0--pixel-background-pastel-background-tumblr.jpg);
+	color: #6A414E;
+	text-align: left;
+        letter-spacing:1px;
+        text-transform:lowercase;
+        line-spacing:30px;
+}
+
+#leftProfile {
+	background-color: transparent;
+	width: 445px;
+}
+
+#rightProfile {
+	background-color: transparent;
+}
+
+#topProfile {
+	background-color: transparent;
+	width: 900px;
+}
+
+body, #header, #main, #links, #middle, #content, #bottom-spacer, #footer {
+background-image: none;
+}
+
+#header, #main, #links, #middle, #content, #bottom-spacer, #footer {
+background-color: transparent;
+}
+
+h1, #footer, #bottom-spacer, #header, #notificationArea {
+display: none;
+}
+
+#links, #basic_links {
+text-align:center;
+color:#6A414E;
+}
+
+#profile_picture, .moduleTitle {
+color:#BA7175;
+text-align:center;
+font-size:16px;
+}
+
+#notificationArea {
+	background-image:none;
+  text-align:center;
+  width:800px;
+  padding-left:250px;
+  font-family:century gothic;
+  letter-spacing:2px;
+}
+
+.alert {
+ background-color:#738F92;
+ border-left:2px double #D3E4ED;
+ width:500px;
