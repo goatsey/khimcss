@@ -1,0 +1,42 @@
+#journalentries {
+  background-color: transparent;
+  text-align: center;
+  margin: 10px auto;
+  padding:10px;
+}
+
+.entry {
+  border: 3px double black;
+  background-color: transparent;
+  padding: 15px;
+  margin: 10px;
+  color: #E6CD9B;
+  text-align: center;
+}
+
+.entry {
+  text-align: left;
+text-indent:30px;
+}
+
+.postedby {
+  margin: 10px 0 0 0;
+  border-top: 2px double #CCA284;
+  padding: 5px 0 0 0;
+  text-align:center;
+  text-transform:lowercase;
+  font-variant:small-caps; 
+}
+
+.subject {
+  font-family:Times New Roman;
+  margin: 2px 0 15px 0;
+  font-size: 32px;
+  font-style:italic;
+  text-transform:lowercase;
+  letter-spacing:4px;
+}
+
+.centerblock {
+  margin: 0 auto;
+}
